@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C++ Launch",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "C:/Users/musta/OneDrive/Masaüstü/My Projects/2048/game2048.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "C:/Users/musta/OneDrive/Masaüstü/My Projects/2048",
+            "environment": [],
+            "externalConsole": true
+        }
+    ]
+}
